@@ -52,7 +52,7 @@ h1, h2, h3 {
 /* HERO SECTION */
 
 .hero {
-    background: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2) ), url('/images/yellow-house.jpg');
+    background: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2) ), url('images/yellow-house.jpg');
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -197,7 +197,7 @@ a.btn:hover{
 /* FEATURE SECTION */
 
 .feature { 
-    background: linear-gradient( rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.2) ), url('/images/feast2.jpg');
+    background: linear-gradient( rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.2) ), url('images/feast2.jpg');
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
